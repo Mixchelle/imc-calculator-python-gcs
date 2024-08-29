@@ -23,7 +23,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 2. **🚀 Run the Application**
        
-     ```bash
+     ```python
      python imc_calculator.py 
 
 To run the application, use the following command:
@@ -71,8 +71,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-
+```
 
 🌐 **Links**
 
