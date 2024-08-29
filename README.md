@@ -96,3 +96,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 💬 **Contact**
 
 For any questions or feedback, you can contact me on [LinkedIn](https://www.linkedin.com/in/mixchelle/) or via email.
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Mixchelle&label=Reposit%C3%B3rio%20Views&color=10&icon=3&pretty=false" />
+</a>
+
