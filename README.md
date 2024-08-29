@@ -22,14 +22,14 @@ Follow these instructions to get a copy of the project up and running on your lo
    cd imc-calculator-python-gcs
 
 2. **🚀 Run the Application**
+       
+     ```bash
+     python imc_calculator.py 
 
 To run the application, use the following command:
 
-```bash
-python imc_calculator.py
 
-
-💡 **Usage**
+ **Usage**
 
 The program will ask you to enter your weight (in kg) and height (in meters). After you provide these values, it will calculate your BMI and display both the BMI value and its classification.
 
@@ -70,6 +70,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
 
 🌐 **Links**
 
